@@ -17,6 +17,7 @@
 		D86F781E10D5B5C800E2003C /* CommunicationController.m in Sources */ = {isa = PBXBuildFile; fileRef = D86F781D10D5B5C800E2003C /* CommunicationController.m */; };
 		D86F782110D5B6ED00E2003C /* emlogo.gif in Resources */ = {isa = PBXBuildFile; fileRef = D86F782010D5B6ED00E2003C /* emlogo.gif */; };
 		D86F78C310D5C15400E2003C /* Connection.xib in Resources */ = {isa = PBXBuildFile; fileRef = D86F78C210D5C15400E2003C /* Connection.xib */; };
+		D8C2A93110D5D5CF0007F9A2 /* Communication.xib in Resources */ = {isa = PBXBuildFile; fileRef = D8C2A93010D5D5CF0007F9A2 /* Communication.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		D86F781D10D5B5C800E2003C /* CommunicationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CommunicationController.m; sourceTree = "<group>"; };
 		D86F782010D5B6ED00E2003C /* emlogo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = emlogo.gif; sourceTree = "<group>"; };
 		D86F78C210D5C15400E2003C /* Connection.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Connection.xib; sourceTree = "<group>"; };
+		D8C2A93010D5D5CF0007F9A2 /* Communication.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Communication.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +126,7 @@
 				8D1107310486CEB800E47090 /* SerialTerminal-Info.plist */,
 				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
 				D86F78C210D5C15400E2003C /* Connection.xib */,
+				D8C2A93010D5D5CF0007F9A2 /* Communication.xib */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -184,6 +187,7 @@
 				D86F780810D5B39E00E2003C /* Main.xib in Resources */,
 				D86F782110D5B6ED00E2003C /* emlogo.gif in Resources */,
 				D86F78C310D5C15400E2003C /* Connection.xib in Resources */,
+				D8C2A93110D5D5CF0007F9A2 /* Communication.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

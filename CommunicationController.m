@@ -11,4 +11,17 @@
 
 @implementation CommunicationController
 
+@synthesize command;
+@synthesize output;
+
+-(IBAction)invokeCommand:(id)sender
+{
+	NSString *commandString = [command stringValue];
+	commandString = [commandString stringByAppendingString:@"\n"];
+    [output replaceCharactersInRange: NSMakeRange ([[output string] length], 0)
+						  withString: commandString];
+	[output scrollRangeToVisible: NSMakeRange([[output string] length], 0)];
+	[command setStringValue:@""];
+}
+
 @end

@@ -59,4 +59,15 @@
 	return 0;
 }
 
+-(IBAction)connectSerial:(id)sender
+{
+	NSNotificationCenter *nc = [NSNotificationCenter defaultCenter];
+	[nc postNotificationName:@"ConnectSerial" object:nil];
+}
+
+-(void)dealloc 
+{
+	[super dealloc];
+}
+
 @end

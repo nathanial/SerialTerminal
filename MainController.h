@@ -15,12 +15,16 @@
 	IBOutlet NSWindow *window;
 	IBOutlet NSProgressIndicator *splashProgress;
 	ConnectionController *connectionController;
+	CommunicationController *communicationController;
 }
 
 @property (retain) NSWindow *window;
 @property (retain) NSProgressIndicator *splashProgress;
 @property (retain) ConnectionController *connectionController;
+@property (retain) CommunicationController *communicationController;
 
 -(void)advanceSplash:(NSTimer *)timer;
+-(void)openCommunications:(NSNotification *)note;
+-(void)resizeWindow:(NSView *)aView;
 
 @end

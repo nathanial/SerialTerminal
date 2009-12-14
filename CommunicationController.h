@@ -10,7 +10,13 @@
 
 
 @interface CommunicationController : NSViewController {
-
+	IBOutlet NSTextField *command;
+	IBOutlet NSTextView *output;
 }
+
+@property (retain) NSTextField *command;
+@property (retain) NSTextView *output;
+
+-(IBAction)invokeCommand:(id)sender;
 
 @end

@@ -7,6 +7,7 @@
 //
 
 #import <Cocoa/Cocoa.h>
+#import "CommunicationController.h"
 
 
 @interface ConnectionController : NSViewController <NSComboBoxDataSource> {
@@ -20,5 +21,7 @@
 @property (retain) NSComboBox *baud;
 @property (retain) NSComboBox *parity;
 @property (retain) NSComboBox *flow;
+
+-(IBAction) connectSerial:(id)sender;
 
 @end
