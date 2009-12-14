@@ -24,4 +24,11 @@
 	[command setStringValue:@""];
 }
 
+-(void)dealloc 
+{
+	[command release];
+	[output release];
+	[super dealloc];
+}
+
 @end

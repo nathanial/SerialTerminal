@@ -23,5 +23,7 @@
 @property (retain) NSComboBox *flow;
 
 -(IBAction) connectSerial:(id)sender;
+-(void) selectDefaultOptions;
+-(Boolean)validateParameters;
 
 @end

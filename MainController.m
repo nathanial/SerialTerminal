@@ -37,6 +37,7 @@
 		connectionController = [[ConnectionController alloc] initWithNibName:@"Connection" bundle:nil];
 		NSView *v = [connectionController view];
 		[self resizeWindow:v];
+		[connectionController selectDefaultOptions];		
 	}
 }
 
@@ -65,6 +66,8 @@
 
 -(void)dealloc 
 {
+	[window release];
+	[splashProgress release];
 	[connectionController release];
 	[communicationController release];
 	[super dealloc];
