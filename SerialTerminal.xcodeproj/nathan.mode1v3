@@ -272,7 +272,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>6</integer>
+									<integer>8</integer>
 									<integer>2</integer>
 									<integer>0</integer>
 								</array>
@@ -315,7 +315,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>MainController.m</string>
+								<string>ConnectionController.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -323,11 +323,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>MainController.m</string>
+										<string>ConnectionController.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>D8C2A9DD10D5E3E00007F9A2</string>
+										<string>D8C2AA0210D5E7EC0007F9A2</string>
 										<key>history</key>
 										<array>
 											<string>D86F785310D5B9C300E2003C</string>
@@ -337,9 +337,9 @@
 											<string>D8C2A96710D5DBE80007F9A2</string>
 											<string>D8C2A9B110D5E13B0007F9A2</string>
 											<string>D8C2A9D110D5E3600007F9A2</string>
-											<string>D8C2A9D710D5E3CC0007F9A2</string>
-											<string>D8C2A9D810D5E3CC0007F9A2</string>
-											<string>D8C2A9C910D5E2D70007F9A2</string>
+											<string>D8C2A9EE10D5E5A60007F9A2</string>
+											<string>D8C2A9F910D5E75E0007F9A2</string>
+											<string>D8C2A9FA10D5E75E0007F9A2</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -537,7 +537,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>D8C2A9DE10D5E3E00007F9A2</string>
 		<string>D8C2A9A310D5DF990007F9A2</string>
 		<string>D8C2A90610D5CFAF0007F9A2</string>
 		<string>D8C2A90710D5CFAF0007F9A2</string>
@@ -568,7 +567,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>CommunicationController.m</string>
+								<string>ConnectionController.m</string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>

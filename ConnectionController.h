@@ -15,12 +15,16 @@
 	IBOutlet NSComboBox *baud;
 	IBOutlet NSComboBox *parity;
 	IBOutlet NSComboBox *flow;
+	IBOutlet NSComboBox *dataBits;
+	IBOutlet NSComboBox *stopBits;
 }
 
 @property (retain) NSComboBox *port;
 @property (retain) NSComboBox *baud;
 @property (retain) NSComboBox *parity;
 @property (retain) NSComboBox *flow;
+@property (retain) NSComboBox *dataBits;
+@property (retain) NSComboBox *stopBits;
 
 -(IBAction) connectSerial:(id)sender;
 -(void) selectDefaultOptions;
