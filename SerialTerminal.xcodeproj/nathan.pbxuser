@@ -1,0 +1,328 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* SerialTerminalAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {744, 461}}";
+			sepNavSelRange = "{455, 0}";
+			sepNavVisRange = "{0, 462}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* SerialTerminalAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {744, 461}}";
+			sepNavSelRange = "{414, 0}";
+			sepNavVisRange = "{0, 531}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = D86F77F510D5B36400E2003C /* SerialTerminal */;
+		activeTarget = 8D1107260486CEB800E47090 /* SerialTerminal */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* SerialTerminal */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = D86F780210D5B37400E2003C /* Code sense */;
+		executables = (
+			D86F77F510D5B36400E2003C /* SerialTerminal */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					566,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 282447345;
+			PBXWorkspaceStateSaveDate = 282447345;
+		};
+		perUserProjectItems = {
+			D86F785310D5B9C300E2003C = D86F785310D5B9C300E2003C /* PBXTextBookmark */;
+			D86F78E110D5C23400E2003C = D86F78E110D5C23400E2003C /* PBXTextBookmark */;
+			D86F78E210D5C23400E2003C = D86F78E210D5C23400E2003C /* PlistBookmark */;
+			D86F78E310D5C23400E2003C = D86F78E310D5C23400E2003C /* PBXTextBookmark */;
+			D86F78EE10D5C25300E2003C = D86F78EE10D5C25300E2003C /* PBXTextBookmark */;
+			D86F78F510D5C2A300E2003C = D86F78F510D5C2A300E2003C /* PBXTextBookmark */;
+			D86F78F610D5C2A300E2003C = D86F78F610D5C2A300E2003C /* PBXTextBookmark */;
+			D86F794210D5CA5600E2003C = D86F794210D5CA5600E2003C /* PBXTextBookmark */;
+			D86F798510D5CDD800E2003C = D86F798510D5CDD800E2003C /* PBXTextBookmark */;
+			D86F798610D5CDD800E2003C = D86F798610D5CDD800E2003C /* PBXTextBookmark */;
+			D86F798910D5CDEB00E2003C = D86F798910D5CDEB00E2003C /* PBXTextBookmark */;
+			D8C2A8EE10D5CE0A0007F9A2 /* PBXTextBookmark */ = D8C2A8EE10D5CE0A0007F9A2 /* PBXTextBookmark */;
+		};
+		sourceControlManager = D86F780110D5B37400E2003C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* SerialTerminal */ = {
+		activeExec = 0;
+		executables = (
+			D86F77F510D5B36400E2003C /* SerialTerminal */,
+		);
+	};
+	8D1107310486CEB800E47090 /* SerialTerminal-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 4}, {691, 874}}";
+		};
+	};
+	D86F77F510D5B36400E2003C /* SerialTerminal */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SerialTerminal;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	D86F780110D5B37400E2003C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D86F780210D5B37400E2003C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D86F781310D5B3D800E2003C /* MainController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {744, 461}}";
+			sepNavSelRange = "{567, 0}";
+			sepNavVisRange = "{0, 614}";
+		};
+	};
+	D86F781410D5B3D800E2003C /* MainController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {733, 624}}";
+			sepNavSelRange = "{1225, 0}";
+			sepNavVisRange = "{333, 534}";
+			sepNavWindowFrame = "{{15, 4}, {691, 874}}";
+		};
+	};
+	D86F781910D5B5B300E2003C /* ConnectionController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {744, 461}}";
+			sepNavSelRange = "{453, 0}";
+			sepNavVisRange = "{0, 536}";
+		};
+	};
+	D86F781A10D5B5B300E2003C /* ConnectionController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {744, 793}}";
+			sepNavSelRange = "{392, 0}";
+			sepNavVisRange = "{3, 732}";
+			sepNavWindowFrame = "{{15, 4}, {691, 874}}";
+		};
+	};
+	D86F781C10D5B5C800E2003C /* CommunicationController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {744, 461}}";
+			sepNavSelRange = "{243, 0}";
+			sepNavVisRange = "{0, 255}";
+		};
+	};
+	D86F781D10D5B5C800E2003C /* CommunicationController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {744, 461}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 248}";
+		};
+	};
+	D86F785310D5B9C300E2003C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D86F785410D5B9C300E2003C /* NSObject.h */;
+		name = "NSObject.h: 72";
+		rLen = 0;
+		rLoc = 1291;
+		rType = 0;
+		vrLen = 471;
+		vrLoc = 880;
+	};
+	D86F785410D5B9C300E2003C /* NSObject.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSObject.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h;
+		sourceTree = "<absolute>";
+	};
+	D86F78E110D5C23400E2003C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D86F781C10D5B5C800E2003C /* CommunicationController.h */;
+		name = "CommunicationController.h: 12";
+		rLen = 0;
+		rLoc = 243;
+		rType = 0;
+		vrLen = 255;
+		vrLoc = 0;
+	};
+	D86F78E210D5C23400E2003C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SerialTerminal-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			NSPrincipalClass,
+		);
+		name = "/Users/nathan/Projects/SerialTerminal/SerialTerminal-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	D86F78E310D5C23400E2003C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D86F781D10D5B5C800E2003C /* CommunicationController.m */;
+		name = "CommunicationController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 248;
+		vrLoc = 0;
+	};
+	D86F78EE10D5C25300E2003C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* SerialTerminalAppDelegate.h */;
+		name = "SerialTerminalAppDelegate.h: 18";
+		rLen = 0;
+		rLoc = 455;
+		rType = 0;
+		vrLen = 462;
+		vrLoc = 0;
+	};
+	D86F78F510D5C2A300E2003C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* SerialTerminalAppDelegate.m */;
+		name = "SerialTerminalAppDelegate.m: 17";
+		rLen = 0;
+		rLoc = 414;
+		rType = 0;
+		vrLen = 531;
+		vrLoc = 0;
+	};
+	D86F78F610D5C2A300E2003C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D86F781310D5B3D800E2003C /* MainController.h */;
+		name = "MainController.h: 22";
+		rLen = 0;
+		rLoc = 567;
+		rType = 0;
+		vrLen = 614;
+		vrLoc = 0;
+	};
+	D86F794210D5CA5600E2003C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D86F781410D5B3D800E2003C /* MainController.m */;
+		name = "MainController.m: 30";
+		rLen = 0;
+		rLoc = 724;
+		rType = 0;
+		vrLen = 977;
+		vrLoc = 253;
+	};
+	D86F798510D5CDD800E2003C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D86F781910D5B5B300E2003C /* ConnectionController.h */;
+		name = "ConnectionController.h: 20";
+		rLen = 0;
+		rLoc = 453;
+		rType = 0;
+		vrLen = 536;
+		vrLoc = 0;
+	};
+	D86F798610D5CDD800E2003C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D86F781A10D5B5B300E2003C /* ConnectionController.m */;
+		name = "ConnectionController.m: 21";
+		rLen = 0;
+		rLoc = 417;
+		rType = 0;
+		vrLen = 735;
+		vrLoc = 0;
+	};
+	D86F798910D5CDEB00E2003C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D86F781A10D5B5B300E2003C /* ConnectionController.m */;
+		name = "ConnectionController.m: 21";
+		rLen = 0;
+		rLoc = 392;
+		rType = 0;
+		vrLen = 728;
+		vrLoc = 0;
+	};
+	D8C2A8EE10D5CE0A0007F9A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D86F781A10D5B5B300E2003C /* ConnectionController.m */;
+		name = "ConnectionController.m: 21";
+		rLen = 0;
+		rLoc = 392;
+		rType = 0;
+		vrLen = 732;
+		vrLoc = 3;
+	};
+}
